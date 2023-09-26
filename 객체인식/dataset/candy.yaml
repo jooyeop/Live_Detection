@@ -1,0 +1,5 @@
+names:
+	0: candy
+test: /프로젝트/회사프로젝트/객체인식/dataset/test/
+train: /프로젝트/회사프로젝트/객체인식/dataset/train/
+val: /프로젝트/회사프로젝트/객체인식/dataset/valid/
